@@ -1,0 +1,7 @@
+
+$ git config --global user.name "Annamalai1995"
+
+
+$ git config --global user.email "s.annamalai1995gmail.com"
+
+$ git init
