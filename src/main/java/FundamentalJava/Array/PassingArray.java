@@ -11,6 +11,7 @@ public class PassingArray {
     }
     public void PassingArray2(String name1)
     {
+
         System.out.println("Welcome");
     }
     public static void main(String[] args) {
@@ -19,7 +20,8 @@ public class PassingArray {
         double[] salary= {12.3,5.6,4.3,3.2,2.4};
         PassingArray pass=new PassingArray();
         pass.PassingArray(salary);
-        pass.PassingArray2("Gajaraj");
+       pass.PassingArray2("kumar");
+        System.out.println(name);
 
     }
 }
